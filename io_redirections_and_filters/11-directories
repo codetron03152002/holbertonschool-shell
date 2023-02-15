@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -gid search -type d | wc -l
+find . search -type d!-path | wc -l
