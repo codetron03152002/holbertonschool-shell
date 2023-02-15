@@ -1,2 +1,2 @@
 #!/bin/bash
-find  search -type d | wc -l
+find ."search" -type d | wc -l
