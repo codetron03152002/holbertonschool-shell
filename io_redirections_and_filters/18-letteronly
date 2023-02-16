@@ -1,2 +1,2 @@
 #!/bin/bash
-grep flin /etc/ssh/sshd_config
+grep -n /etc/ssh/sshd_config
