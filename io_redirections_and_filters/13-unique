@@ -1,2 +1,2 @@
 #!/ban/bash
-sort list | uniq
+sort | uniq
