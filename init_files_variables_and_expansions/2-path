@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 export PATH=$PATH:/action
-=======
-echo $((`echo $PATH | grep -o ":/" | wc -l` + 1))
->>>>>>> 972d553e9e0ece0b7bb2306811e365a6b9c9bd16
